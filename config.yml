@@ -1,0 +1,2 @@
+train: false
+train_data_path: "data/filtered_data_remove_dup_out.csv"
